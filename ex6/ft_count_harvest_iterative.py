@@ -6,3 +6,6 @@ def ft_count_harvest_iterative():
         if (current_day == total_day):
             print("Harvest time!")
         current_day += 1
+
+
+ft_count_harvest_iterative()
